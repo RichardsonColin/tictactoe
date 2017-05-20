@@ -1,6 +1,4 @@
-<u>The Odin Project</u>
-
-PROJECT: Tic Tac Toe
+# PROJECT: Tic Tac Toe
 
 It is a tic-tac-toe game on the command line where two human players can play against each other and the board is displayed in between turns.
 
