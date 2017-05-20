@@ -18,6 +18,6 @@ class Board
 
 end
 
-# display test
+# display testing
 a = Board.new
 a.display
